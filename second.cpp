@@ -8,3 +8,5 @@ int main(){
     cout<<"The sum of x and y is:  "<<sum<<endl;
     return EXIT_SUCCESS;
 }
+
+//data type lai matra garxa pointer ley remember this
