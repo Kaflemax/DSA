@@ -10,3 +10,8 @@ cout<<*p<<endl;
 cout<<ch<<endl;
 return 0;
 }
+
+//*p = value at a p
+//&x = address of x
+
+//*
