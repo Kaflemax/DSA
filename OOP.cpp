@@ -2,10 +2,10 @@
 using namespace std;
         class Car {
             public:
-            string brand;
+            string brand; //attribute
             int speed;
 
-            void accelerate(){
+            void accelerate(){ //method
                 speed+=10;
                 cout<<"Speed: "<<speed;
             }
