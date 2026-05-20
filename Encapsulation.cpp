@@ -47,12 +47,9 @@ public:
 
 int main() {
     Employee E1;
-
     E1.setName("Shisir");
     E1.setSalary(15000000);
     E1.setAge(21);
-
     E1.display();
-
     return 0;
 }
