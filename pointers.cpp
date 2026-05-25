@@ -8,6 +8,8 @@ ch='Z';
 cout<<*p<<endl;
 *p='X';
 cout<<ch<<endl;
+//p=&ch;
+//cout<<p<<endl;
 return 0;
 }
 
